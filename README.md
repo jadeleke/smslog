@@ -1,1 +1,1 @@
-APP_KEY=base64:UUJ8FEn6DXB+y4rNadZOhC5B6VFaPgZnbSDctrRUtHo=
+
